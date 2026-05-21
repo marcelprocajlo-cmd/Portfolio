@@ -18,10 +18,10 @@ Welcome to my QA Portfolio! I am a detail-oriented Junior Software Tester passio
 ## 📂 Project Portfolio & Frameworks
 Here you can find my hands-on QA projects and testing documentation:
 
-* [**📁 Bug Reports & Jira Dashboards**](./portfolio/bug-reports/) – Examples of well-structured bug reports, severity/priority assignments, and reproduction steps.
-* [**📁 Test Plans & Test Cases**](./portfolio/test-cases/) – End-to-end test suites designed in TestLink/Excel formats covering functional and edge cases.
-* [**📁 API Testing Collections**](./portfolio/api-testing/) – Postman collections with built-in environment variables and basic assertions.
-* [**📁 SQL Verification Scripts**](./portfolio/sql-queries/) – Real-world database queries used to validate data integrity and backend states.
+* [**📁 Bug Reports & Jira Dashboards**](portfolio/portfolio/bug-reports/) – Examples of well-structured bug reports, severity/priority assignments, and reproduction steps.
+* [**📁 Test Plans & Test Cases**](portfolio/portfolio/test-cases/) – End-to-end test suites designed in TestLink/Excel formats covering functional and edge cases.
+* [**📁 API Testing Collections**](portfolio/portfolio/api-testing/) – Postman collections with built-in environment variables and basic assertions.
+* [**📁 SQL Verification Scripts**](portfolio/portfolio/sql-queries/) – Real-world database queries used to validate data integrity and backend states.
 
 ---
 
