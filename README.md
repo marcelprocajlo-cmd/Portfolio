@@ -21,7 +21,7 @@ Here you can find my hands-on QA projects and testing documentation:
 * [**📁 Bug Reports & Jira Dashboards**](https://github.com/marcelprocajlo-cmd/Portfolio/blob/42cdfe16d08c39a08c0eb42c7619ea05dc239e45/Portfolio/bug_reports) – Examples of well-structured bug reports, severity/priority assignments, and reproduction steps.
 * [**📁 Test Plans & Test Cases**](./Portfolio/test-cases/) – End-to-end test suites designed in TestLink/Excel formats covering functional and edge cases.
 * [**📁 API Testing Collections**](https://github.com/marcelprocajlo-cmd/Portfolio/blob/42cdfe16d08c39a08c0eb42c7619ea05dc239e45/Portfolio/api_testing) – Postman collections with built-in environment variables and basic assertions.
-* [**📁 SQL Verification Scripts**](./Portfolio/sql-queries/) – Real-world database queries used to validate data integrity and backend states.
+* [**📁 SQL Verification Scripts**](https://github.com/marcelprocajlo-cmd/Portfolio/blob/7fcc3cdf32819de8ccbedb8497c55fb21709a99c/Portfolio/sql_queries) – Real-world database queries used to validate data integrity and backend states.
 
 ---
 
