@@ -67,7 +67,7 @@ IDENTYFIKATOR: API-TC-03: Poszukiwanie użytkownika z ID z kosmosu
 
 [KROKI TESTOWE]
 1. Wpisz adres endpointu, dodając na końcu ID ze znakami specjalnymi:
-   https://reqres.in/api/users/99999999' OR '1'='1
+   https://reqres.in/api/users/99999999' 
 2. Kliknij przycisk Send.
 3. Krok alternatywny: Zmień ID na wartość tekstową:
    https://reqres.in/api/users/niedozwolony_string
