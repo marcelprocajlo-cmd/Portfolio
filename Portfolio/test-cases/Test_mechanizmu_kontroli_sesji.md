@@ -6,7 +6,7 @@ Poprawna walidacja unikalności żądania i blokada duplikacji POST
 przy użyciu identyfikatorów sesji (Tealium / utag.js).
 
 STATUS: Passed (Test zaliczony - system poprawnie zabezpieczony)
-WITRYNA / URL : https://www.erstebank.at / https://www.sparkasse.at
+WITRYNA / URL : [https://www.erste.pl](https://www.erste.pl/klient-indywidualny/kontakt/zostaw-numer)
 ŚRODOWISKO : Chrome v120+, DevTools Console.
 
 OPIS:
