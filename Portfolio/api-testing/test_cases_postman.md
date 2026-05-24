@@ -74,7 +74,8 @@ IDENTYFIKATOR: API-TC-03: Poszukiwanie użytkownika z ID z kosmosu
 4. Kliknij przycisk Send.
 
 [OCZEKIWANY REZULTAT]
-* Status Code: W obu przypadkach system powinien zwrócić kod 404 Not Found.
+* Status Code: W obu przypadkach system powinien zwrócić kod 404 Not Found lub 401
+Unauthorized.
 * Response Body: Odpowiedź pusta {} lub komunikat typu {"error": "User not found"}. 
   Serwer pod żadnym pozorem nie może ujawnić struktury bazy danych (stack trace) 
   ani zwrócić danych innych użytkowników.
