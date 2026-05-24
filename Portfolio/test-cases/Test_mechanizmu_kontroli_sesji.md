@@ -19,7 +19,7 @@ aktywności na podstawie przypisanego ID sesji :
 
 [LOGI Z KONSOLI DEWELOPERSKIEJ (CONSOLE LOGS)]
 --------------------------------------------------------------------------------
-utag.js:378 clientID detected
+utag.js:378 clientID detected <br>
 utag.js:235 Tealium: Timer 10s wysłany z ID sesji: 501167532.1779624436113
 --------------------------------------------------------------------------------
 
