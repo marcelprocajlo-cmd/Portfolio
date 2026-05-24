@@ -20,13 +20,3 @@ zrzuty ekranu (pliki .png/.jpg) zawierające:
 * Różnicę między rezultatem faktycznym (Actual Result) a oczekiwanym (Expected Result).
 * Przypisane priorytety (Priority) oraz odpowiednie etykiety (Labels).
 
---------------------------------------------------------------------------------
-📋 PRZEGLĄD RAPORTOWANYCH BŁĘDÓW
---------------------------------------------------------------------------------
-1. [bug_report_01.png] – Błąd krytyczny (Blocker) w module płatności.
-2. [bug_report_02.png] – Defekt UI (Major) – brak responsywności formularza.
-3. [bug_report_03.png] – Błąd walidacji danych (Medium) przy rejestracji.
-
-*(Wskazówka: Możesz kliknąć na dowolny plik graficzny w tym folderze, aby zobaczyć 
-pełny podgląd zgłoszenia z Jiry).*
-================================================================================
