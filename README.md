@@ -18,7 +18,7 @@ Welcome to my QA Portfolio! I am a detail-oriented Junior Software Tester passio
 ## 📂 Project Portfolio & Frameworks
 Here you can find my hands-on QA projects and testing documentation:
 
-* [**📁 Bug Reports & Jira Dashboards**](https://github.com/marcelprocajlo-cmd/Portfolio/tree/a36b594fcdda2f9a76ddcf543358240f7700ca32/Portfolio/bug_reports) – Examples of well-structured bug reports, severity/priority assignments, and reproduction steps.
+* [**📁 Bug Reports & Jira Dashboards**](https://github.com/marcelprocajlo-cmd/Portfolio/tree/f1e386cf68352b331ac1a07df2f7cadd142a014d/Portfolio/bug_reports) – Examples of well-structured bug reports, severity/priority assignments, and reproduction steps.
 * [**📁 Test Plans & Test Cases**](https://github.com/marcelprocajlo-cmd/Portfolio/tree/2998717ffb5e23011895c0e96914deded930b178/Portfolio/test-cases) – End-to-end test suites designed in TestLink/Excel formats covering functional and edge cases.
 * [**📁 API Testing Collections**](https://github.com/marcelprocajlo-cmd/Portfolio/tree/6ac0c036562d138bf52dceeaf805d68021719555/Portfolio/api-testing) – Postman collections with built-in environment variables and basic assertions.
 * [**📁 SQL Verification Scripts**](https://github.com/marcelprocajlo-cmd/Portfolio/tree/3c840ed81decef0ef8b09822bbec79784ad78e7d/Portfolio/SQL-queries) – Real-world database queries used to validate data integrity and backend states.
