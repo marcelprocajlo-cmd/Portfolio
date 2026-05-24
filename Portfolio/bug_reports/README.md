@@ -1,5 +1,4 @@
-================================================================================
-🐛 REPOZYTORIUM ZGŁOSZEŃ BŁĘDÓW (BUG REPORTS)
+ REPOZYTORIUM ZGŁOSZEŃ BŁĘDÓW (BUG REPORTS)
 ================================================================================
 
 W tym katalogu znajdują się udokumentowane zgłoszenia błędów (Bug Reports), 
