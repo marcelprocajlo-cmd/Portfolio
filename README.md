@@ -1,5 +1,8 @@
 Hi there, I'm Marcel Procajlo! 👋
+
 Software Tester (Junior/Mid) | QA & Implementation
+
+
 
 Welcome to my QA Portfolio! I'm a detail-oriented Software Tester passionate about ensuring software quality, hunting bugs, and delivering seamless web and mobile user experiences — currently working at Hustro Sp. z o.o. as a Software Tester / Implementation Specialist.
 
